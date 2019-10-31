@@ -1,0 +1,72 @@
+body.home {
+  background-image: url("imagens/restaurante.jpg");
+  background-size: cover;
+}
+body.receitas{
+   background-image: url("imagens/arroz.jpg");
+   background-size: cover;   
+}
+body.contato{
+  background-image: url("imagens/contato.png");
+  background-size: cover;
+}
+
+nav {
+   background-color: white;
+   width: 600px;
+   border: 10px solid black;
+   padding: 10px;
+   margin:10px;
+   text-align: justify-all;
+   opacity: 0.7;
+   font-size: 25px;
+}
+
+div.second {
+   background-color: white;
+   width: 800px;
+   height: 825px;
+   border: 10px solid black;
+   padding: 10px;
+   margin: 10px;
+   text-align: justify-all;
+   opacity: 0.7;
+   font-size: 20px;
+}
+div.second h1 {
+    text-align: center
+}
+
+   div.ter {
+   background-color: white;
+   width: 700px;
+   border: 10px solid black;
+   padding: 10px;
+   margin: 10px;
+   text-align: justify-all;
+   opacity: 0.7;
+   font-size: 20px;
+}
+
+p {
+   background-color: white;
+   width: 700px;
+   border: 10px solid black;
+   padding: 10px;
+   margin: 10px;
+   text-align: justify-all;
+   opacity: 0.7;
+   font-size: 25px;
+}
+
+hgroup h2 {
+   background-color: white;
+   width: 600px;
+   border: 10px solid black;
+   padding:10px;
+   margin:10px;
+   text-align: center;
+   opacity: 0.7;
+   font-size: 30px;
+}
+
